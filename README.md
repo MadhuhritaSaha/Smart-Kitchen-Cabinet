@@ -62,14 +62,14 @@ This project showcases:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/<your-username>/smart-kitchen-cabinet.git
+   git clone https://github.com/MadhuhritaSaha/smart-kitchen-cabinet.git
    ```
 2. **Open Arduino IDE.**
 3. **Navigate to `src/SmartCabinet.ino` and upload to your Arduino UNO.**
 
 ## 📚 Documentation
-- Basic working: [`docs/basic-working.pdf`](docs/Smart Cabinet.pdf)
-- Circuit diagram: [`docs/physical-circuit.pdf`](docs/SKC Cicuit.pdf)
+- Basic working: [`docs/basic-working.pdf`](docs/SmartCabinet.pdf)
+- Circuit diagram: [`docs/physical-circuit.pdf`](docs/SKCCicuit.pdf)
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
