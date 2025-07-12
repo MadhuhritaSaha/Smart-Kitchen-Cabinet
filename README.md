@@ -68,8 +68,8 @@ This project showcases:
 3. **Navigate to `src/SmartCabinet.ino` and upload to your Arduino UNO.**
 
 ## 📚 Documentation
-- Basic working: [`docs/basic-working.pdf`](docs/basic-working.pdf)
-- Circuit diagram: [`docs/physical-circuit.pdf`](docs/physical-circuit.pdf)
+- Basic working: [`docs/basic-working.pdf`](docs/Smart Cabinet.pdf)
+- Circuit diagram: [`docs/physical-circuit.pdf`](docs/SKC Cicuit.pdf)
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
