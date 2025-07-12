@@ -75,6 +75,9 @@ This project showcases:
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📄 License
-This project is [MIT](LICENSE) licensed.
 
+- **Code**: Licensed under the [Apache License 2.0](LICENSE). You are free to use, modify, and distribute the code, provided you give appropriate credit.
+- **Documentation & Images**: Licensed under [CC BY 4.0](LICENSE-CC-BY-4.0). You may share and adapt these materials with proper attribution.
+
+See individual license files for details.
 ---
